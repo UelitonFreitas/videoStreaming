@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MediaControl margins -->
+    <dimen name="media_control_top_margin">16dp</dimen>
+    <dimen name="media_control_bottom_margin">12dp</dimen>
+    <dimen name="media_control_left_margin">16dp</dimen>
+    <dimen name="media_control_right_margin">16dp</dimen>
+
+    <!-- Time Indicator -->
+    <dimen name="time_indicator_height">32dp</dimen>
+    <dimen name="time_indicator_font_size">14sp</dimen>
+
+    <!-- Seekbar -->
+    <dimen name="seekbar_height">16dp</dimen>
+    <dimen name="seekbar_bottom_margin">4dp</dimen>
+    <dimen name="seekbar_padding">8dp</dimen>
+    <dimen name="seekbar_scrubber_height">8dp</dimen>
+    <dimen name="seekbar_scrubber_live_height">6dp</dimen>
+    <dimen name="seekbar_bars_height">2dp</dimen>
+    <dimen name="seekbar_scrubber_elevation">2dp</dimen>
+    <dimen name="seekbar_time_horiz_padding">4dp</dimen>
+    <dimen name="seekbar_time_vert_padding">2dp</dimen>
+    <dimen name="seekbar_time_bottom_margin">-20dp</dimen>
+
+</resources>
