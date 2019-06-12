@@ -99,4 +99,4 @@ In another tab, run the following command to fire up the server:
 http-server -a :: -p 8081 --cors -c-1
 ```
 
-Now you can test this with your player (using the URL `http://localhost:8081/stream.mpd`).
+Now you can test this with your player (using the URL `http://localhost:8081/stream.m3u8`).
